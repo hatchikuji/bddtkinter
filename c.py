@@ -1,0 +1,1 @@
+config = {'host': 'localhost','user': 'bdd','password': 'Bdd1234!','database': 'dbcon'}
